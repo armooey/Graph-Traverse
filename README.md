@@ -2,7 +2,7 @@
 Graphical implementation of Breadth-first search & Depth-first search
 #####################################################################
 Before Running th code:
-1.Download "Graphviz" executable packages from the link below:
+1.Download "Graphviz" executable packages from the link below:\n
 https://www.graphviz.org/download/
 2.Install Graphviz Python module usin pip:
 pip install graphviz
