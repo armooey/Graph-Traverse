@@ -1,6 +1,7 @@
 # Graph-Traverse
 Graphical implementation of Breadth-first search & Depth-first search
-#####################################################################
+
+------------
 
 
 Before Running th code:
@@ -13,7 +14,7 @@ https://www.graphviz.org/download/
 
 pip install graphviz
 
-#####################################################################
+-----
 
 
 The graph is implemented using adjacency list with Python's defaultdict.
